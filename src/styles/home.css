@@ -1,0 +1,28 @@
+.sinopse{
+    max-width: 900px;
+    margin: 14px auto;
+    color: #032202;
+}
+
+.sinopse-serie{
+    margin-top: 25px;
+}
+
+.sinopse-content{
+    margin: 25px;
+}
+
+.sinopse-title{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.sinopse-link{
+    margin-top: 10px;  
+    text-decoration: none;
+    text-align: center;
+}
+
+.sinopse-link a{
+    font-size: 20px !important;
+}
